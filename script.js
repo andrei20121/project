@@ -40,7 +40,7 @@ console.log(typeof(arr)); typeof-Указывает тип данных*/
 
 //let isCheked = true,
 //    isClose = true;
-//console.log(isCheked && isClose); //&&- знак имперстант ||-или
+//console.log(isCheked && isClose); //&&- знак имперстант и ||-или
 
 /*let isCheked = false,
     isClose = true;
